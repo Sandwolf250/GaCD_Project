@@ -87,7 +87,7 @@ The sub_data is grouped by:
 This data.frame and grouping is passed to summarize_each() together with
 the mean function to compute the mean for each activity for each subject. 
 The result is stored in:
-* mean_ data with 81 variables with 180 observations
+*mean_ data with 81 variables with 180 observations.  
 This summary is written to test file mean_data.txt
 
 
